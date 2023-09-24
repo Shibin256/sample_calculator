@@ -1,0 +1,387 @@
+.maindiv{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgb(66, 1, 68), #000000);
+
+    padding: 10px;
+}
+
+
+.calculatordiv{
+    width: 450px;
+    height: 650px;
+    margin-left: 350px;
+}
+
+.textbar{
+    width: 450px;
+    height: 70px;
+    margin-top: -25px;
+}
+
+
+.clear{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.cbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    float: left;
+    cursor: pointer;
+    
+}
+
+
+
+.persentage{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.pbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 20px;
+    float: left;
+    cursor: pointer;
+}
+
+
+.back{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.Backbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+.division{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.divisionbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+
+
+
+.seven{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.sevenbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+
+
+.eight{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.eightbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+
+.nine{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.ninebutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.multiplication{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.multbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+.four{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.fourbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+
+
+.five{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.fivebutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+
+.six{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.sixbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.substraction{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.subbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 40px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+.one{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.onebutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+
+
+.two{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.twobutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 20px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+
+.three{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.threebutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.addition{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.addbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 40px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+.doublezero{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.doublezerobutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+
+
+.zero{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.zerobutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+
+.dot{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.dotbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+.equalto{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.equalbutton{
+    width: 100px;
+    height: 100px;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 40px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+
+body{
+    margin: 0;
+}
+
+
+#headdis{
+
+    font-size: 50px;
+    color: white;
+}
